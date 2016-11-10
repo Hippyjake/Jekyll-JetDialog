@@ -1,6 +1,8 @@
-# Jekyll-Jetpack
+# On hold
+---
+# Jekyll-JetDialog
 
-jjpack is a Ncurses style gui for [Jekyllrb](http://jekyllrb.com/ "jekyllrb.com").
+jjdialog is a Ncurses style gui for [Jekyllrb](http://jekyllrb.com/ "jekyllrb.com").
 
 ## Planned features
 * First Run Wizard
